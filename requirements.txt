@@ -5,8 +5,6 @@ geopandas
 geoviews
 folium
 requests
-matplotlib.pyplot
-plotly.subplots
-plotly.graph_objects
-plotly.express 
+matplotlib
+plotly
 gunicorn
