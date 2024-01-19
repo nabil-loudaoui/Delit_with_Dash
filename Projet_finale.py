@@ -85,6 +85,8 @@ from dash.dependencies import Input, Output
 
 app = Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
+server = app.server
+
 SIDEBAR_STYLE = {
     "position": "fixed",
     "top": 0,
