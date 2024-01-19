@@ -1,3 +1,12 @@
 dash == 2.14.1
 pandas
+geoviews
+geopandas
+geoviews
+folium
+requests
+matplotlib.pyplot
+plotly.subplots
+plotly.graph_objects
+plotly.express 
 gunicorn
